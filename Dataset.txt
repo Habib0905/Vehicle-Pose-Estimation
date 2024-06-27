@@ -1,0 +1,4 @@
+# Below is the link to the CarFusion dataset that we utilized to train our model
+
+
+https://www.cs.cmu.edu/~ILIM/projects/IM/CarFusion/cvpr2018/index.html
