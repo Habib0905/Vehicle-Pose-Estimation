@@ -75,7 +75,7 @@ YOLOv8-Dataset/
 
 There are two weight files in the link, best.pt and last.pt. In our experiment the last.pt was found to be the more robust one.
 
-### Hyperparameter tuning
+### Hyperparameter Tuning
 
 Follow the code, 'car_pose_tuning_training.ipynb' given in this repository.
 
@@ -115,7 +115,7 @@ Input the path to the previous config file and the path to the weight you downlo
 In 'cfg', input the path to the config file which you will be provided after hyperparameter tuning.
 
 
-### Training without Hyperparamer tuning
+### Training without Hyperparamer Tuning
 
 If you want to just train your dataset using our model, you can proceed like below:
 
