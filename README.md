@@ -4,7 +4,7 @@ This project focuses on enhancing vehicle pose estimation for autonomous driving
 
 Authors:
 **Tanzir Razzaque**, **Habib Hussain**, **Rafid Ahmmad**
-<br>{tanzir.razzaque, habib.hussain, rafid.ahmmad}@northsouth.edu</br>
+<br>tanzir.razzaque@northsouth.edu, habib.hussain@northsouth.edu, rafid.ahmmad@northsouth.edu</br>
 
 ## Key Features
 
