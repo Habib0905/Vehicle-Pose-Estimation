@@ -6,6 +6,11 @@ _Authors_: **Tanzir Razzaque**, **Habib Hussain**, **Rafid Ahmmad**
 <br>
 _Emails_: tanzir.razzaque@northsouth.edu, habib.hussain@northsouth.edu, rafid.ahmmad@northsouth.edu
 
+
+## Video Demo
+![Pose Estimation_VideoDemo_Group_5](https://github.com/user-attachments/assets/6137a9ff-3e41-44ba-b238-af1ad433e4d1)
+
+
 ## Key Features
 
 ### 🚗 Vehicle Pose Estimation
