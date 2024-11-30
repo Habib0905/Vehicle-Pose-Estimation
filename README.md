@@ -2,9 +2,9 @@
 
 This project focuses on enhancing vehicle pose estimation for autonomous driving systems using the **YOLOv8** deep learning model. The model is fine-tuned and trained on the **CarFusion** dataset using about **30,000** images. It was further improved with a custom dataset that captures unique traffic conditions in various regions of Bangladesh.
 
-_Authors_: **Tanzir Razzaque**, **Habib Hussain**, **Rafid Ahmmad**
+_Authors_: **Tanzir Razzaque**, **Habib Hussain**, **Rafid Ahmmad**, **Shahnewaz Siddique**
 <br>
-_Emails_: tanzir.razzaque@northsouth.edu, habib.hussain@northsouth.edu, rafid.ahmmad@northsouth.edu
+_Emails_: tanzir.razzaque@northsouth.edu, habib.hussain@northsouth.edu, rafid.ahmmad@northsouth.edu, shahnewaz.siddique@northsouth.edu
 
 
 ## Video Demo
